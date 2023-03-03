@@ -1,0 +1,27 @@
+Average Directional Index (ADX), Trend following, Above or below 20 level, 2 x ATR, Opposite signal or trailing stop
+Relative Strength Index (RSI), Momentum, Overbought or oversold levels, 1.5 x ATR, Opposite signal or trailing stop
+Moving Average Convergence Divergence (MACD), Trend following, Signal line cross, 1 x ATR, Opposite signal or trailing stop
+Bollinger Bands, Range trading, Price crossing band, 0.5 x ATR, Opposite signal or trailing stop
+Stochastic Oscillator, Momentum, Overbought or oversold levels, 1 x ATR, Opposite signal or trailing stop
+Commodity Channel Index (CCI), Momentum, Above or below 100 level, 1 x ATR, Opposite signal or trailing stop
+Williams %R, Momentum, Overbought or oversold levels, 2 x ATR, Opposite signal or trailing stop
+Ichimoku Clouds, Trend following, Price crossing baseline or cloud, 1 x ATR, Opposite signal or trailing stop
+Aroon Indicator, Trend following, Cross of Aroon up/down lines, 1.5 x ATR, Opposite signal or trailing stop
+Chande Momentum Oscillator (CMO), Momentum, Crossing zero line, 1 x ATR, Opposite signal or trailing stop
+Elder-Ray Index, Momentum, Crossing zero line, 1 x ATR, Opposite signal or trailing stop
+Fisher Transform, Trend following, Signal line cross, 1.5 x ATR, Opposite signal or trailing stop
+Klinger Volume Oscillator, Volume, Signal line cross, 1.5 x ATR, Opposite signal or trailing stop
+Price Volume Trend (PVT), Volume, Signal line cross, 1 x ATR, Opposite signal or trailing stop
+Volume Price Trend (VPT), Volume, Signal line cross, 1 x ATR, Opposite signal or trailing stop
+Average True Range (ATR), Volatility, N/A, 2 x ATR, Opposite signal or trailing stop
+Donchian Channels, Trend following, Price breaking out of channels, 1 x ATR, Opposite signal or trailing stop
+Envelopes, Range trading, Price crossing upper or lower envelope, 0.5 x ATR, Opposite signal or trailing stop
+Moving Average Ribbon, Trend following, Price crossing ribbon, 1 x ATR, Opposite signal or trailing stop
+Parabolic SAR, Trend following, Price crossing dots, 1 x ATR, Opposite signal or trailing stop
+Trix, Momentum, Signal line cross, 1 x ATR, Opposite signal or trailing stop
+Adaptive Moving Average (AMA), Trend following, Price crossing AMA, 1 x ATR, Opposite signal or trailing stop
+SuperTrend Indicator, Trend following, Price crossing band, 1 x ATR, Opposite signal or trailing stop
+Zig Zag Indicator, Trend following, N/A, 2 x ATR, Opposite signal or trailing stop
+Linear Regression Indicator, Trend following, Price crossing line, 1 x ATR, Opposite signal or trailing stop
+Pivot Points, Support and resistance, Price reaching pivot point, 1 x ATR, Opposite signal or trailing stop
+Woodie's Pivot Points, Support and resistance, Price reaching pivot point, 1 x ATR, Opposite signal or trailing stop
