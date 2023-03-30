@@ -2,6 +2,15 @@ import os
 import time
 import git
 
+"""
+code1 = "def multiply(a, b):\n    return a * b"
+code2 = "def multiply(a, b):\n    if a < 0 or b < 0:\n        raise ValueError('Inputs must be positive')\n    return a * b"
+description = "Description of changes"
+"""
+
+generated_code = api.generate_diff_description(code1, code2, description)
+print(generated_code)
+
 
 class RepoWatcher:
     def __init__(self, repo_path, callback_fn):

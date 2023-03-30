@@ -12,7 +12,7 @@ class CodexAPI:
         parameters = {
             "engine": "davinci-codex",
             "prompt": prompt,
-            "max_tokens": 1024,
+            "max_tokens": 3900,
             "temperature": 0.5,
             "stop": None,
         }
@@ -20,6 +20,12 @@ class CodexAPI:
         try:
             response = openai.Completion.create(**parameters)
             generated_code = response.choices[0].text
+            if response.choices:
+                generated_code = response.choices[0].text
+                print(generated_code)
+            else:
+                print("No code generated")
+
             return generated_code
 
         except openai.error.InvalidRequestError as e:
